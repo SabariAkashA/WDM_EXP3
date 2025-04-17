@@ -118,6 +118,7 @@ def print_results(category, result):
 print_results("Top Wear", top_wear_result)
 print_results("Bottom Wear", bottom_wear_result)
 print_results("Party Wear", party_wear_result)
+
 ```
 ### Output:
 <img src = https://github.com/user-attachments/assets/7ba720d3-7800-4a48-9a5a-795ce9b53a5b height = 250 width = 300><br>
